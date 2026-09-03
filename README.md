@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Aspiring Computer Engineer with a deep passion for AI, Embedded Systems, and System Design. Currently pursuing B.Tech in Computer Science and Engineering, I thrive on building real-world tech solutions by merging software, hardware, and creativity. With a strong foundation in Python, C/C++, Web Development, and Microcontroller Programming, I am driven by curiosity, problem-solving, and a long-term mission to innovate impactful technologies. Eager to contribute to challenging projects, learn relentlessly, and evolve into a better engineer than yesterday.
+Aspiring Computer Engineer. Currently pursuing B.Tech in Computer Science and Engineering. With a strong foundation in Python, C/C++, Web Development, and Microcontroller Programming, I am driven by curiosity, problem-solving, and a long-term mission to innovate impactful technologies. Eager to contribute to challenging projects, learn relentlessly, and evolve into a better engineer than yesterday.
